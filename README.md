@@ -13,8 +13,6 @@ While the HUD runs, HudMcp serves an MCP endpoint on `localhost`. An MCP client 
 
 It's meant for plugin development and reverse engineering: finding the metadata of a new league mechanic, checking what a component really contains, or confirming an offset before you write plugin code against it.
 
-> **Disclaimer:** reading game memory with third-party tools may break the game's Terms of Service. Use it at your own risk.
-
 ---
 
 ## Contents
